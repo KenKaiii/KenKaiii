@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ken 👋</h1>
-<p align="center"><strong>AI developer. I build agents, desktop apps, and automation tools — and ship them in public.</strong></p>
+<p align="center"><strong>I have been obsessed with building stuff since high school and now I like showing things I build to the world.</strong></p>
 
 <p align="center">
   <a href="https://www.youtube.com/@kenkaidoesai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
