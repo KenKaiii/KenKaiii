@@ -14,13 +14,10 @@
 | Project | What it does |
 |---|---|
 | [**gg-framework**](https://github.com/KenKaiii/gg-framework) | AI desktop app for coding, chat with memory, and video creation. Any model. Mac & Windows. |
-| [**pocket-agent**](https://github.com/KenKaiii/pocket-agent) | An AI personal assistant done the right way. |
-| [**b0t**](https://github.com/KenKaiii/b0t) | Workflow automation — describe what you want and it happens. |
-| [**voice-noob**](https://github.com/KenKaiii/voice-noob) | Configure and deploy custom AI voice/phone agents. |
-| [**agent-steroids**](https://github.com/KenKaiii/agent-steroids) | Local searchable corpus of open-source code for you or your coding agent. One Rust binary. |
 | [**pew2**](https://github.com/KenKaiii/pew2) | Your coding agents. On your phone. From anywhere. |
-| [**king**](https://github.com/KenKaiii/king) | Whole e-commerce creative stack in one desktop app. |
-| [**error-mom**](https://github.com/KenKaiii/error-mom) | Self-hosted error tracking built for coding agents. |
+| [**agent-steroids**](https://github.com/KenKaiii/agent-steroids) | Local searchable corpus of open-source code for you or your coding agent. One Rust binary, no runtime, no MCP. |
+| [**Roamies**](https://github.com/KenKaiii/Roamies) | Desktop creatures with an AI sidekick that lives on your screen. It remembers what you said you'd do and reminds you. |
+| [**vape-n-vibe**](https://github.com/KenKaiii/vape-n-vibe) | Push-to-talk voice transcription. Fully local, fully free. |
 
 ### 🛠️ Stack
 
