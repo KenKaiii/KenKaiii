@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.youtube.com/@kenkaidoesai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.tiktok.com/@ggkenkai"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://www.skool.com/raid"><img src="https://img.shields.io/badge/Skool-Free%20community-7C3AED?style=for-the-badge" alt="Free Skool community"></a>
   <a href="https://www.skool.com/kenkai"><img src="https://img.shields.io/badge/Skool-Raid%2B-7C3AED?style=for-the-badge" alt="Raid+ on Skool"></a>
   <a href="https://www.kenkais.com"><img src="https://img.shields.io/badge/Website-kenkais.com-7C3AED?style=for-the-badge" alt="kenkais.com"></a>
 </p>
@@ -49,5 +48,4 @@
 
 ---
 
-<p align="center"><strong>Want to learn to build stuff like this?</strong> Join the free community → <a href="https://www.skool.com/raid">skool.com/raid</a></p>
 <p align="center"><strong>Want to make money with AI?</strong> Raid+ → <a href="https://www.skool.com/kenkai">skool.com/kenkai</a> · <strong>Want it built for you?</strong> → <a href="https://work.kenkais.com/">work.kenkais.com</a></p>
